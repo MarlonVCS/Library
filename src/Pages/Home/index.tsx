@@ -62,7 +62,7 @@ export default function Home() {
 
         <Link className="button" to="/marketplace" style={{ marginLeft: "80px" }}>Ir ao Marketplace</Link>
         <Link className="button" to="/registration" style={{ marginLeft: "10px" }}>Cadastrar novo livro</Link>
-        <Link className="button" to="/category" style={{ marginLeft: "10px" }}>Cadastrar caregoria</Link>
+        <Link className="button" to="/category" style={{ marginLeft: "10px" }}>Cadastrar categoria</Link>
         <button onClick={handleLogout} type="button">
           <FiPower size={18} color="#E02041" />
         </button>
