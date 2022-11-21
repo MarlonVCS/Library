@@ -1,0 +1,62 @@
+{
+  "books": [
+    {
+      "id": 20074,
+      "title": "A volta dos que não foram",
+      "description": "Interdum posuere enim donec nunc lacinia lobortis, volutpat leo blandit libero per euismod dictumst, nullam ullamcorper etiam aliquam molestie. sit nunc mi donec eleifend neque ac risus, inceptos ultricies metus conubia suscipit ad augue non, ad nisi risus vehicula tincidunt odio",
+      "price": "99",
+      "category": "Ficção"
+    },
+    {
+      "id": 21653,
+      "title": "O livro bom",
+      "description": "Interdum posuere enim donec nunc lacinia lobortis, volutpat leo blandit libero per euismod dictumst, nullam ullamcorper etiam aliquam molestie. sit nunc mi donec eleifend neque ac risus, inceptos ultricies metus conubia suscipit ad augue non, ad nisi risus vehicula tincidunt odio",
+      "price": "89.8",
+      "category": "Ação"
+    },
+    {
+      "id": 16578,
+      "title": "Teste",
+      "description": "asdasdada",
+      "price": "50",
+      "category": "Carros"
+    }
+  ],
+  "userLog": [
+    {
+      "id": 1,
+      "username": "natan"
+    }
+  ],
+  "cart": [
+    {
+      "id": 20074,
+      "title": "A volta dos que não foram",
+      "description": "Interdum posuere enim donec nunc lacinia lobortis, volutpat leo blandit libero per euismod dictumst, nullam ullamcorper etiam aliquam molestie. sit nunc mi donec eleifend neque ac risus, inceptos ultricies metus conubia suscipit ad augue non, ad nisi risus vehicula tincidunt odio",
+      "price": "99",
+      "qtd": 1
+    }
+  ],
+  "category": [
+    {
+      "id": 41791,
+      "name": "Ação"
+    },
+    {
+      "id": 46318,
+      "name": "Comédia"
+    },
+    {
+      "id": 49224,
+      "name": "Romance"
+    },
+    {
+      "id": 26138,
+      "name": "Ficção"
+    },
+    {
+      "id": 57400,
+      "name": "Carros"
+    }
+  ]
+}
